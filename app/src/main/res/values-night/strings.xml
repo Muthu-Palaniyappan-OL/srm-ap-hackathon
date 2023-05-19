@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayD</string>
+    <string name="Landing_Page_Heading">Instant Transactions</string>
+    <string name="Landing_Page_Content">Offline transactions are the next big thing in transactions. Be the first to experience it!</string>
+    <string name="Landing_Page_Icon_Desc">Landing Page Icon</string>
+    <string name="Login_Button_Text">Login</string>
+    <string name="Sign_Up_Button_Text">Sign Up</string>
+    <string name="RsSymbol">\u20B9</string>
+    <string name="rs">\u20A8</string>
+</resources>

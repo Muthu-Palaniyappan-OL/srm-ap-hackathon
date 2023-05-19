@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darkgreen">#128610</color>
+    <color name="darkred">#8B0000</color>
+
+    <!-- Style for Outlined Box Overriding the Stock-->
+    <color name="mtrl_textinput_default_box_stroke_color">#544E50</color>
+
+    <color name="payd_pink">#F4717F</color>
+    <color name="payd_brown">#544E50</color>
+    <color name="payd_white">#DAD8D9</color>
+    <color name="payd_peach">#D9C8C0</color>
+    <color name="payd_gray">#2E282C</color>
+
 </resources>
